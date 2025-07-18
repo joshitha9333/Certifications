@@ -1,8 +1,8 @@
 ## My Technical Certifications
 
-* **NPTEL Elite + Silver Certification:** [Programming in Java](https://github.com/joshitha9333/Certifications/blob/main/Programming%20In%20Java%20nptel%20certificate.pdf) (2025)
-* **NPTEL Certification:** [Data Base Management System](https://github.com/joshitha9333/Certifications/blob/main/nptel%20certificate.pdf) (2024)
-* **Great Learning:** [Front End Development: HTML](https://courses.edx.org/certificates/your-certificate-id) (May 2024)
+* **NPTEL Elite + Silver Certification:** [Programming in Java](https://github.com/joshitha9333/Certifications/blob/main/Programming%20In%20Java%20nptel%20certificate.pdf)
+* **NPTEL Certification:** [Data Base Management System](https://github.com/joshitha9333/Certifications/blob/main/nptel%20certificate.pdf) 
+* **Great Learning:** [Front End Development: HTML](https://github.com/joshitha9333/Certifications/blob/main/great%20learning%20frontend%20developement.pdf) 
 * **SoloLearn Certification:** [Introduction to Python](https://www.sololearn.com/certificates/your-certificate-id) (Apr 2023)
 * **Google Developer Groups:**
     * [Front-end Web Development](https://developers.google.com/certifications/your-cert-id-frontend) (2024)
