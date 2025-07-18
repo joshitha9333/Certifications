@@ -5,4 +5,4 @@
 * **Great Learning:** [Front End Development: HTML](https://github.com/joshitha9333/Certifications/blob/main/great%20learning%20frontend%20developement.pdf) 
 * **Ideathon volunteer certificate:** [Ideathon Volunteer](https://github.com/joshitha9333/Certifications/blob/main/ideathon%20volunteer%20certificate%20.pdf)
 * **Google Developer Groups:** [Gen Ai Study Jams ]
-* **Hackathon certificate:** [Hackathon certificate](https://www.sololearn.com/certificates/your-certificate-id)
+* **Hackathon certificate:** [Hackathon certificate](https://github.com/joshitha9333/Certifications/blob/main/hackhers%20certificate%20.pdf)
