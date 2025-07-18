@@ -6,3 +6,4 @@
 * **Ideathon volunteer certificate:** [Ideathon Volunteer](https://github.com/joshitha9333/Certifications/blob/main/ideathon%20volunteer%20certificate%20.pdf)
 * **Google Developer Groups:** [Gen Ai Study Jams ]
 * **Hackathon certificate:** [Hackathon certificate](https://github.com/joshitha9333/Certifications/blob/main/hackhers%20certificate%20.pdf)
+* **codechef profile:** [Code Chef](https://www.codechef.com/users/joshitha2005)
